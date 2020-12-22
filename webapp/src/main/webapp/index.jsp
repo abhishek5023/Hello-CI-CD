@@ -1,4 +1,2 @@
-<h1>This is CI/CD Pipeline For FEXLE</h1>
-<h1>This is CI/CD Pipeline For FEXLE</h1>
-<h2> Cloud Pro Architecture</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h1> Cloud Pro Architecture</h1>
+<img src="webapp/src/main/webapp/1.png" alt="Trulli" width="500" height="333">
